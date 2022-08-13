@@ -20,10 +20,10 @@ $(document).ready(function() {
         $('#button_chechout_hero').show(); 
         $('#button_chechout_final').show(); 
         $('.footerContent, .c-section').show();
- }, 1530000); 
+ }, 1336800); 
 });
 
- //1530000
+ //1530000 original
 
  //Controle player Youtube 
 var player;
